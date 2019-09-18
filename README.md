@@ -1,2 +1,2 @@
 # TelegramFriendlyList
-A system for friendly list for parties control
+A system for friendly list for party control
